@@ -1,0 +1,49 @@
+.container {
+display: inline-block;
+text-align: center;
+font-size: 50px;
+
+}
+
+body {
+
+    background-color: gold;
+    display: flex;
+    
+
+}
+
+h1 {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: black;
+ background-color: seagreen;
+ position: center;
+ 
+}
+
+input[type="number"] {
+    
+  
+}
+
+
+
+.get-jokes {
+    color: white;
+    font-weight: 200;
+    font-size: 70%;
+    background-color: black;
+    padding: 30px 60px 60px 60px;
+    text-align: center; 
+    border-radius: 15px ;
+}
+
+/* Responsiveness */
+/* Mobile */
+
+
+/* Tablet */
+
+/* Laptop */
+
+
